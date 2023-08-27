@@ -50,13 +50,14 @@ p{
     padding-top: 2%;
     padding-right: 2%;
     padding-bottom: 2%;
-    
+    font-size: 20px;
 
 }
 table {
     border-collapse: collapse;
     width: 80%;
     margin-left: 155px;
+    font-size: 20px;
   }
   th, td {
     border: 1px solid white;
